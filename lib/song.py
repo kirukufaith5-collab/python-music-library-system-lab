@@ -13,7 +13,7 @@ class Song:
         Song.add_to_genres(genre)
         Song.add_to_artists(artist)
         Song.add_to_genre_count(genre)
-        Song.add_to_artists_count(genre)
+        Song.add_to_artists_count(artist)
 
 
     @classmethod
